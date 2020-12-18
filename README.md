@@ -8,16 +8,16 @@
 **Teléfono:** XXXXX  
 **Email:** XXXXX  
 
-## EDUCACIÓN ACADEMICA
-Educación secundaria realizada en IES Francisco Romero Vargas  
-Bachillerato realizado en IES Francisco Romero Vargas  
+## HABILIDADES
+Puntual  
+Responsable  
 
 ## EXPERIENCIA LABORAL
 Ninguna  
 
-## HABILIDADES
-Puntual  
-Responsable  
+## EDUCACIÓN ACADEMICA
+Educación secundaria realizada en IES Francisco Romero Vargas  
+Bachillerato realizado en IES Francisco Romero Vargas  
 
 ## Idiomas
 Español (Nivel alto)  
